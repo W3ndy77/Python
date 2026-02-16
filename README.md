@@ -16,5 +16,5 @@ ___
 - **Exercício 5** | Adicionando e removendo itens de uma lista
 - **Exercício 6** | Mesclando listas
 - **Exercício 7** | Elif e situações
-- **Exercício** 8 | Comparação de preços fictícios em mercados
+- **Exercício 8** | Comparação de preços fictícios em mercados
 ___
