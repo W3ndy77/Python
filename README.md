@@ -13,5 +13,6 @@ ___
 - **Exercício 2** | Sorteio de números
 - **Exercício 3** | Sorteio de pessoas em uma lista
 - **Exercício 4** | Associando listas
--  **Exercício 5** | Adicionando e removendo itens de uma lista
+- **Exercício 5** | Adicionando e removendo itens de uma lista
+- **Exercício 6** | Mesclando listas
 ___
