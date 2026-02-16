@@ -17,4 +17,5 @@ ___
 - **Exercício 6** | Mesclando listas
 - **Exercício 7** | Elif e situações
 - **Exercício 8** | Comparação de preços fictícios em mercados
+- **Exercício 9** | Separando strings e números em uma lista
 ___
