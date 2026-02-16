@@ -18,4 +18,5 @@ ___
 - **Exercício 7** | Elif e situações
 - **Exercício 8** | Comparação de preços fictícios em mercados
 - **Exercício 9** | Separando strings e números em uma lista
+- **Exercício 10** | Pedra, papel, tesoura
 ___
