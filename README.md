@@ -9,7 +9,7 @@ ___
 
 ## 📋 Lista de exercícios 
 
-- **Exercício 1** | Simulação simples de uma imobiliária
+- **Exercício 1** | Simulação de uma imobiliária simples
 - **Exercício 2** | Sorteio de números
 - **Exercício 3** | Sorteio de números
 ___
