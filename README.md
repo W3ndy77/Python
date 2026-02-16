@@ -11,5 +11,5 @@ ___
 
 - **Exercício 1** | Simulação simples de uma imobiliária
 - **Exercício 2** | Sorteio de números
-- **Exercício 3** | Sorteio de números
+- **Exercício 3** | Sorteio de pessoas
 ___
